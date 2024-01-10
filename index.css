@@ -1,0 +1,51 @@
+body {
+    background-color: #97D8B2;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+#A{
+    background-color: #170312;
+}
+.C{
+    color:#A0ACAD;
+}
+#B{
+    background-color: #33032f;
+}
+
+#C{
+    background-color: #531253;
+}
+
+#D{
+    background-color: #430B41;
+}
+
+
+
+
+
+
+
+
+
+/*Parte Inicial do Cabecalho*/
+/* div{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    margin-top: 200px;
+    margin-left: 200px;
+}  */
+/* body{
+background-color: red;
+}
+.batatinha{
+background-color: green;
+}
+#cachorro{
+color: yellow;
+} */
+/* final do cabecalho */

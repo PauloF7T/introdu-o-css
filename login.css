@@ -1,0 +1,16 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.container {
+    background-color: aqua;
+    width: 40vw;
+    height: 50vw;
+}
+.login{
+    color: aliceblue;
+    margin: 0 auto;
+    margin-left: 15vw;
+    padding: 2vw;
+}
+
