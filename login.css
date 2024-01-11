@@ -8,7 +8,8 @@
     font-family: 'Roboto', sans-serif;
 }
 body{
-    background-color: #313958;
+    background: rgb(75,64,83);
+    background: linear-gradient(90deg, rgba(75,64,83,1) 0%, rgba(75,57,87,1) 35%, rgba(62,73,120,1) 71%, rgba(59,71,122,1) 78%);
 }
 .container {
     width: 40vw;
